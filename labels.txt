@@ -1,0 +1,14 @@
+BACKGROUND
+key
+mouse
+keyboard
+cellphone
+laptop
+pen
+earphone
+glass
+nailong
+wallet
+charger
+watch
+pad
